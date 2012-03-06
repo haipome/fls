@@ -1,7 +1,7 @@
 #include"fls.h"
 
 
-static char * version = "Frequency limit server 0.93 (2011 08 30)\n"
+static char * version = "Frequency limit server 0.90 (2011 08 30)\n"
 			"GCC 4.5 on Linux 2.6 64 bit\n";
 static char * help    = "\n"
 			"Welcome to FLS (Frequency limit server)\n"
