@@ -1,0 +1,8 @@
+Internship in 2011, Tencent mini project, fls: frequency limit server
+
+Requirements:
+Design a frequency server, read and write frequency limit for each business service.
+Functional requirements:
+(1) frequency limits for multiple business;
+(2) provide the second level of frequency limits;
+(3) be able to query a user in a business within the current frequency data.
